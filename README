@@ -1,0 +1,12 @@
+# project_euler_solutions
+
+Collection of solutions to http://projecteuler.net problems.
+
+## Background
+
+Recently, two of my developers were "arguing" about different programming
+languages that they are exploring.  Coming of out of that was a challenge
+to implement a simple Project Euler problem using each's language of choice.
+This challenge turned into a broader challenge to my development team to
+implement solutions in many different programming languages.  This project
+is a container for my solutions.
